@@ -6,15 +6,15 @@ WartoscPI = 3.14
 
 #w tym zadaniu liczymy pole kola
 PoleKola = (WartoscPI * PromienOkregu**2)
-print (PoleKola)
+print ("Pole kola =",PoleKola)
 
 #Obwod okregu 2 pi r 
 PoleOkregu = (2 * WartoscPI * PromienOkregu)
-print (PoleOkregu)
+print ("Obwud Okregu =",PoleOkregu)
 
 #Pole prostokata
 PoleProstokata = (bokA * bokB)
-print (PoleProstokata)
+print ("Pole prostokąta =",PoleProstokata)
 
 #Pole trapezu
 PoleTrapezu = ((bokA + bokB)*bokH)/2
