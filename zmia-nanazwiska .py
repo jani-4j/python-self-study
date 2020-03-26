@@ -18,14 +18,3 @@ print(NewName)
 
 NewName1 = FirstName+" "+FamilyName+" "+LastName
 print(NewName1)
-#print(NewName1)
-
-#2. Zdefiniuj zmienną music o następującej zawartości 
-# (są to tytuły i autorzy piosenek z filmu Minionki):
-
-#"Universal Fanfare" Jerry Goldsmith "Happy Together" Garry Bonner 
-# "I'm a Man" Steve Winwood 
-
-#Uwaga! Ten napis zawiera zarówno apostrof jak i cudzysłów,
-#więc musisz zmodyfikować zapis metodami pokazanymi na tej lekcji,
-#zeby zdefiniowanie zmiennej się udało.
