@@ -14,7 +14,7 @@ print ("Obwud Okregu =",PoleOkregu)
 
 #Pole prostokata
 PoleProstokata = (bokA * bokB)
-print ("Pole prostokąta =",PoleProstokata)
+print ("Pole prostokata =",PoleProstokata)
 
 #Pole trapezu
 PoleTrapezu = ((bokA + bokB)*bokH)/2
